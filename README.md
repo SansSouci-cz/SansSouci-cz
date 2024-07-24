@@ -1,3 +1,3 @@
 # About 
 
-Website code revision
+Account only for website code revision
